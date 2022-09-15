@@ -12,5 +12,9 @@ public class Utility {
        System.out.println("heello:hi how are you?");
 		System.out.println("hello:1234");
 	}
+	
+	public void m2() {
+		System.out.println("m2");
+	}
 
 }
